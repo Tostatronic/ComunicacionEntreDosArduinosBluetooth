@@ -1,0 +1,10 @@
+C:\Users\Jorge\Documents\CUCEI\4to Semestre\SSPBD\Semana 4\ControladorRGBApp\ControladorRGBApp\bin\Debug\ControladorRGBApp.exe.config
+C:\Users\Jorge\Documents\CUCEI\4to Semestre\SSPBD\Semana 4\ControladorRGBApp\ControladorRGBApp\bin\Debug\ControladorRGBApp.exe
+C:\Users\Jorge\Documents\CUCEI\4to Semestre\SSPBD\Semana 4\ControladorRGBApp\ControladorRGBApp\bin\Debug\ControladorRGBApp.pdb
+C:\Users\Jorge\Documents\CUCEI\4to Semestre\SSPBD\Semana 4\ControladorRGBApp\ControladorRGBApp\obj\Debug\ControladorRGBApp.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\CUCEI\4to Semestre\SSPBD\Semana 4\ControladorRGBApp\ControladorRGBApp\obj\Debug\ControladorRGBApp.Form1.resources
+C:\Users\Jorge\Documents\CUCEI\4to Semestre\SSPBD\Semana 4\ControladorRGBApp\ControladorRGBApp\obj\Debug\ControladorRGBApp.Properties.Resources.resources
+C:\Users\Jorge\Documents\CUCEI\4to Semestre\SSPBD\Semana 4\ControladorRGBApp\ControladorRGBApp\obj\Debug\ControladorRGBApp.csproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\CUCEI\4to Semestre\SSPBD\Semana 4\ControladorRGBApp\ControladorRGBApp\obj\Debug\ControladorRGBApp.exe
+C:\Users\Jorge\Documents\CUCEI\4to Semestre\SSPBD\Semana 4\ControladorRGBApp\ControladorRGBApp\obj\Debug\ControladorRGBApp.pdb
+C:\Users\Jorge\Documents\CUCEI\4to Semestre\SSPBD\Semana 4\ControladorRGBApp\ControladorRGBApp\obj\Debug\ControladorRGBApp.Configuration.resources

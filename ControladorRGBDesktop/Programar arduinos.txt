@@ -1,0 +1,3 @@
+ArduinoPC --- Programa que se le carga al arduino que estara conectado a la tira
+
+Arduino PCC ---- Programa que se le carga al arduino que estara conectado a la computadora
